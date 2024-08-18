@@ -1,4 +1,5 @@
-public class AreaCircle{
+package L1BasicsCode;
+public class AreaCircles{
     public static void main(String[] args) {
 
         double pi = 3.14;

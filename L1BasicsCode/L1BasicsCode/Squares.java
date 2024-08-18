@@ -1,4 +1,5 @@
-public class Square {
+package L1BasicsCode;
+public class Squares {
     public static void main(String[] args) {
         int n = 5;
         int area = n*n;

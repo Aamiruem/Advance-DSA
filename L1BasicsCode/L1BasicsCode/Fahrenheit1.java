@@ -1,6 +1,7 @@
-import java.util.Scanner;
+package L1BasicsCode;
 
-public class Fahrenheit {
+import java.util.Scanner;
+public class Fahrenheit1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the temperature in Celsius: ");
