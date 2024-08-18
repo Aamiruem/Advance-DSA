@@ -1,5 +1,5 @@
 package L2BasicsFlowchart;
 
-public class Square {
+public class Squares {
     
 }
