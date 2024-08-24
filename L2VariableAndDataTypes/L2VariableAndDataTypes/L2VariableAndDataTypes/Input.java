@@ -51,9 +51,9 @@ public class Input {
         // System.out.println("Your long value is: " + l);
 
         // double
-        // System.out.println("Enter your double value: ");
-        // double d = input.nextDouble();
-        // System.out.println("Your double value is: " + d);
+        System.out.println("Enter your double value: ");
+        double d = input.nextDouble();
+        System.out.println("Your double value is: " + d);
         input.close();
     }
 }
