@@ -1,0 +1,12 @@
+// package Advance-DSA.L3Operators;
+
+public class BODMAS {
+    public static void main(String[] args) {
+        int x = 2;
+        int y = 5;
+        int exp1 = (x * y / x);
+        int exp2 = (x * (y / x));
+        System.out.println("BODMAS: " + exp1);
+        System.out.println("BODMAS: " + exp2);
+    }
+}
