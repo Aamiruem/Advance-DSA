@@ -10,7 +10,7 @@ public class ExceptMultipleOf10 {
             do {
                 int num = sc.nextInt();
                 if (num % 10 == 0) {
-                    // System.out.println(num + " is a multiple of 10.");
+                    System.out.println(num + " is a multiple of 10.");
                     continue;
                 } else {
                     System.out.println(num + " is not a multiple of 10.");
