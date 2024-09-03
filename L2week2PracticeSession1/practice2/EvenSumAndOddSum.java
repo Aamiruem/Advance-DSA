@@ -40,7 +40,8 @@ import java.util.Scanner;
 public class EvenSumAndOddSum {
 
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in); // Initialize the scanner
+        Scanner input;
+        input = new Scanner(System.in); // Initialize the scanner
         int choice;
         int evenSum = 0;
         int oddSum = 0;
