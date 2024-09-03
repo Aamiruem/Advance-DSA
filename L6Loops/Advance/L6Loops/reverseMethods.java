@@ -1,4 +1,3 @@
-
 public class reverseMethods {
 
     public static void main(String[] args) {
