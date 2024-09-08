@@ -91,7 +91,7 @@ public class Butterfly {
 
             // print star
             for (int i = 1; i <= st; i++) {
-                System.out.print("*");
+                System.out.print("*" + "");
             }
 
             if (number_of_line < n) {
