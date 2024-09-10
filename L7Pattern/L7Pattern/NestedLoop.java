@@ -1,4 +1,5 @@
-public class NestedLoops {
+package L7Pattern;
+public class NestedLoop {
     public static void main(String[] args) {
 
         for (int line = 0; line < 5; line++) {

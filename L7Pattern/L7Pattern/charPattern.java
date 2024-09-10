@@ -1,4 +1,4 @@
-// package Advance-DSA;
+package L7Pattern;
 
 import java.util.Scanner;
 

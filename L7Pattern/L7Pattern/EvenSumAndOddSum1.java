@@ -1,3 +1,4 @@
+// package L7Pattern;
 // // write  two numbers sum
 
 // import java.util.Scanner;
@@ -43,10 +44,10 @@
 
 
 
-
+package L7Pattern;
 import java.util.Scanner;
 
-public class EvenSumAndOddSum {
+public class EvenSumAndOddSum1 {
 
     public static void main(String[] args) {
 

@@ -1,3 +1,4 @@
+// package L7Pattern;
 // package Advance-DSA;
 
 // import java.util.Scanner;
@@ -54,10 +55,10 @@
 
 
 
-
+package L7Pattern;
 import java.util.Scanner;
 
-public class InvertNumber {
+public class InvertNumbers {
 
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {

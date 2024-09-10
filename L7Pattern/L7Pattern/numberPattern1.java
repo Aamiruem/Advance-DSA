@@ -1,3 +1,4 @@
+// package L7Pattern;
 // package Advance-DSA;
 
 // import java.util.Scanner;
@@ -26,10 +27,10 @@
 
 
 
-
+package L7Pattern;
 import java.util.Scanner;
 
-public class numberPattern {
+public class numberPattern1 {
 
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {

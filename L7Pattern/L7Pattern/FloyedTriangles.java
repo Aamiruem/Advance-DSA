@@ -1,22 +1,23 @@
+package L7Pattern;
 // package Advance-DSA;
 
 import java.util.Scanner;
 
-public class InvertednumberPattern {
-
+public class FloyedTriangles {
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
-            System.err.println("Enter a number ");
+            System.err.println("Enter the number of line ");
 
             int n = sc.nextInt();
+            int num = 1;
+
             for (int line = 1; line <= n; line++) {
-                for (int number = line; number >=1; number--) {
-                    System.out.print(number + " ");
+                for (int number = 1; number <= line; number++) {
+                    System.out.print(num + " ");
+                    num++;   
                 }
                 System.err.println();
             }
-        } catch (Exception error) {
-            System.err.println("Error: " + error.getMessage());
         }
     }
 }

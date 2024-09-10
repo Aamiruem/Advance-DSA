@@ -1,3 +1,4 @@
+// package L7Pattern;
 // package Advance-DSA;
 
 // public class invertedPatterns {
@@ -30,8 +31,8 @@
 
 
 
-
-public class invertedPatterns {
+package L7Pattern;
+public class invertedPattern {
 
     public static void main(String[] args) {
         int n = 7;

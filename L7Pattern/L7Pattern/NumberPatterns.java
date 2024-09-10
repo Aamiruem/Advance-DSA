@@ -1,3 +1,4 @@
+package L7Pattern;
 
 import java.util.Scanner;
 
