@@ -10,6 +10,6 @@ public class FunctionMethod {
     }
 
     public static void main(String[] args) {
-        print();
+        print();//this is a function call
     }
 }
