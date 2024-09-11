@@ -1,3 +1,4 @@
+// package L2VariableAndDataTypes;
 // public class MemoryConversion {
 //     public static void main(String[] args) {
 //         // Using byte (8-bit signed integer)
@@ -28,8 +29,8 @@
 
 
 
-
-public class MemoryConversion {
+package L2VariableAndDataTypes;
+public class MemoryConversions {
     public static void main(String[] args) {
         // Initializing 1 MB as an int
         int megabytes = 1;

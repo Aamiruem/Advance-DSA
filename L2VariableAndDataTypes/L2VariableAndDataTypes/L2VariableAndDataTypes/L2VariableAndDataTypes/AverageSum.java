@@ -1,3 +1,4 @@
+package L2VariableAndDataTypes;
 import java.util.Scanner;
 public class AverageSum {
     public static void main(String[] args) {

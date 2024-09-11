@@ -1,3 +1,5 @@
+package L2VariableAndDataTypes;
+
 import java.util.Scanner;
 
 public class AreaOfCircles {

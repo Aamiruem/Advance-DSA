@@ -1,4 +1,5 @@
-public class TwoSum {
+package L2VariableAndDataTypes;
+public class TwoSums {
     public static void main(String[] args) {
         int a = 10;
         int b = 20;

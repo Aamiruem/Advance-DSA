@@ -1,7 +1,8 @@
+package L2VariableAndDataTypes;
 // package Advance-DSA.L2VariableAndDataTypes
 
 import java.util.Scanner;
-public class StationaryCostWithGST {
+public class StationaryCostWithGST1 {
     public static void main(String[] args) {
         @SuppressWarnings("resource")
         Scanner sc = new Scanner(System.in);

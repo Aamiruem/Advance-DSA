@@ -1,4 +1,5 @@
-public class TypeConversion {
+package L2VariableAndDataTypes;
+public class TypeConversions {
     public static void main(String[] args) {
 
         int a = 10;

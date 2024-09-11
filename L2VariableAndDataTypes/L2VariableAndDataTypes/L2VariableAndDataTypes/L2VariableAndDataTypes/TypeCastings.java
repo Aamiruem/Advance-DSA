@@ -1,4 +1,5 @@
-public class TypeCasting {
+package L2VariableAndDataTypes;
+public class TypeCastings {
     public static void main(String[] args) {
 
 

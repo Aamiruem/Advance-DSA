@@ -1,4 +1,5 @@
-public class Char {
+package L2VariableAndDataTypes;
+public class Chars {
     public static void main(String[] args) {
 
         // char ch = 'a';

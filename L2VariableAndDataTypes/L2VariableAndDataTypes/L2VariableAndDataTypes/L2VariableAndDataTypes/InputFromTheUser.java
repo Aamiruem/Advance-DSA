@@ -1,6 +1,7 @@
+package L2VariableAndDataTypes;
 import java.util.Scanner;
 
-public class InputFromTheUsers {
+public class InputFromTheUser {
     public static void main(String[] args) {
 
         @SuppressWarnings("resource")

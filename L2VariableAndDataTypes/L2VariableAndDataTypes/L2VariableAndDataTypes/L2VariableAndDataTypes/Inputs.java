@@ -1,6 +1,7 @@
+package L2VariableAndDataTypes;
 import java.util.Scanner;
 
-public class Input {
+public class Inputs {
     public static void main(String[] args) {
         Scanner input;
         input = new Scanner(System.in);

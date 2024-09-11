@@ -1,4 +1,5 @@
-public class PrimitiveDataTypes {
+package L2VariableAndDataTypes;
+public class PrimitiveDataType {
     public static void main(String[] args) {
         
         byte b = 10;

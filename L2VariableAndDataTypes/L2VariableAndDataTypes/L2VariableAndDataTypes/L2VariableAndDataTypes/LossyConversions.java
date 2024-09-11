@@ -1,5 +1,6 @@
+package L2VariableAndDataTypes;
 
-public class LossyConversion {
+public class LossyConversions {
     public static void main(String[] args) {
         // int a = 25;
         // long d = a;

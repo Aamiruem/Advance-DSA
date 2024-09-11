@@ -1,4 +1,5 @@
-public class Q4TypeConversion {
+package L2VariableAndDataTypes;
+public class Q4TypeConversions {
     public static void main(String[] args) {
         byte b = 5;
         char ch = 'c';

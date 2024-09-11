@@ -1,4 +1,5 @@
-public class Literals {
+package L2VariableAndDataTypes;
+public class Literal {
     public static void main(String[] args) {
         // Integer Literals
         int a = 10;
