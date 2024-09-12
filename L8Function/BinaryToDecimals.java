@@ -8,7 +8,7 @@ public class BinaryToDecimals {
         int num = binNum;
         while (binNum > 0) {
             int lsatDigit = binNum % 10;
-            decNum += lsatDigit * Math.pow(2, pow);
+            decNum += (lsatDigit * Math.pow(2, pow));
             pow++;
             binNum = binNum / 10;
         }
@@ -16,6 +16,6 @@ public class BinaryToDecimals {
     }
     public static void main(String[] args) {
 
-        binToDec(111);
+        binToDec(1010);
     }
 }

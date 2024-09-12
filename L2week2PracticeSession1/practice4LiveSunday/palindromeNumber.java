@@ -1,5 +1,7 @@
+package L2week2PracticeSession1.practice4LiveSunday;
 
-public class palindromeNumbers {
+
+public class palindromeNumber {
 
     public static void main(String[] args) {
 

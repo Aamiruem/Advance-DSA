@@ -1,3 +1,5 @@
+package L2week2PracticeSession1.practice4LiveSunday;
+
 // package practice4LiveSunday;
 
 // import java.util.Scanner;
@@ -44,7 +46,7 @@
 
 import java.util.Scanner;
 
-public class Butterfly {
+public class Butterfly1 {
 
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {

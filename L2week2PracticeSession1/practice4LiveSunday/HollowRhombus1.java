@@ -1,7 +1,9 @@
+package L2week2PracticeSession1.practice4LiveSunday;
+
 
 import java.util.Scanner;
 
-public class HollowRhombus {
+public class HollowRhombus1 {
 
     public static void main(String[] args) {
         // Create a Scanner object to take input from the user

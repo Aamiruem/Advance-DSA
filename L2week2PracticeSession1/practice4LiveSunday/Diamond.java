@@ -1,4 +1,4 @@
-// package practice4LiveSunday;
+package L2week2PracticeSession1.practice4LiveSunday;
 
 // import java.util.Scanner;
 
