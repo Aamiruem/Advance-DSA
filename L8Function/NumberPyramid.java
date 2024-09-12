@@ -1,5 +1,5 @@
 package L8Function;
-
+    
 import java.util.Scanner;
 public class NumberPyramid {
 
