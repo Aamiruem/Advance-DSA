@@ -1,11 +1,11 @@
-package L3Week3Practice.practice1;
+// package L3Week3Practice.practice1;
 
 import java.util.Scanner;
 
 public class PalindromeNumbers {
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
-            System.out.print("Enter the starting number: ");
+            System.out.print("Enter the number: ");
             int num = sc.nextInt();
             int originalNum = num;
             int rev_num = 0;
