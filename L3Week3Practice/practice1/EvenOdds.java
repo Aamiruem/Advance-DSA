@@ -1,4 +1,4 @@
-package L3Week3Practice.practice1;
+// package L3Week3Practice.practice1;
 
 import java.util.Scanner;
 public class EvenOdds {
