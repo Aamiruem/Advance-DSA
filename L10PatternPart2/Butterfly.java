@@ -1,3 +1,4 @@
+package L10PatternPart2;
 public class Butterfly {
     public static void butterfly(int n) {
         // upper half

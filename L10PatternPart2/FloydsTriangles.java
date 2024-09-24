@@ -1,5 +1,5 @@
-
-public class FloydsTriangle {
+package L10PatternPart2;
+public class FloydsTriangles {
 
     public static void floydsTriangle(int n) {
         int num = 1;

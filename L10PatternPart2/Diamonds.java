@@ -1,4 +1,6 @@
-public class Diamond {
+package L10PatternPart2;
+
+public class Diamonds {
     public static void diamond(int n) {
         // upper half
         for (int i = 1; i <= n; i++) {
