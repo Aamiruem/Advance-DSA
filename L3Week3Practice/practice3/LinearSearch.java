@@ -1,4 +1,4 @@
-package L3Week3Practice.practice3;
+package L1Recordings.L3Week3Practice.practice3;
 
 public class LinearSearch {
     public static int linearSearch(int arr[], int key) {

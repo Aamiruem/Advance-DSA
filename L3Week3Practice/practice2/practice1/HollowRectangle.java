@@ -1,3 +1,4 @@
+package L1BasicsCode.L1BasicsCode.L3Week3Practice.practice2.practice1;
 import java.util.Scanner;
 
 public class HollowRectangle {

@@ -1,4 +1,4 @@
-package L2week2PracticeSession1.practice4LiveSunday;
+package L1BasicsCode.L2week2PracticeSession1.practice4LiveSunday;
 
 
 public class palindromeNumber {

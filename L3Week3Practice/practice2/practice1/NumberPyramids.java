@@ -1,3 +1,4 @@
+package L1BasicsCode.L1BasicsCode.L3Week3Practice.practice2.practice1;
 
 // Import the Scanner class to read user input
 import java.util.Scanner;

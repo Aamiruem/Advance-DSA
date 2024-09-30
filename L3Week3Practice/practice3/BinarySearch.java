@@ -1,4 +1,4 @@
-package L3Week3Practice.practice3;
+package L1BasicsCode.L1BasicsCode.L3Week3Practice.practice3;
 
 public class BinarySearch {
     public static int binarySearch(int arr[], int key) {
