@@ -3,6 +3,7 @@
 public class PrecedenceAndAssociativity {
 
     public static void main(String[] args) {
+        @SuppressWarnings("unused")
         int a = 20, b = 10, c = 0, d = 20, e = 40, f = 30;
 
         // precedence rules for arithmetic operators.

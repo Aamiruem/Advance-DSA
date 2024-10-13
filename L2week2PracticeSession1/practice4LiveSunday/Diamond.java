@@ -1,4 +1,4 @@
-// package practice4LiveSunday;
+package L1BasicsCode.L2week2PracticeSession1.practice4LiveSunday;
 
 // import java.util.Scanner;
 
@@ -80,7 +80,7 @@ public class Diamond {
             // Inner loop to print stars ('*')
             // It runs 'st' times, printing stars
             for (int i = 0; i < st; i++) {
-                System.out.print("*"); // Print a star character for each iteration
+                System.out.print("*" + ""); // Print a star character for each iteration
             }
 
             // Move to the next line after printing stars and spaces for the current line
