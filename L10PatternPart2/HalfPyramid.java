@@ -1,3 +1,5 @@
+
+
 public class HalfPyramid {
     public static void halfPyramid(int n) {
         for (int line = 1; line <= n; line++) {
