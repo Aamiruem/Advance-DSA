@@ -37,8 +37,8 @@
 
 
 
-
-public class ArithmeticOperators {
+package L4GFGOperators;
+public class ArithmeticOperator {
     public static void main(String[] args) {
 
         // Arithmetic operators
