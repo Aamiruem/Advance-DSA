@@ -31,7 +31,7 @@ public class BubbleSort {
         int arr[] = { 3, 6, 2, 1, 8, 7, 4, 5, 3, 1};
         int n = 10;
         for(int i = 0; i <n; i++){
-            for(int index = 0; index<n-1; index++){
+            for(int index = 0; index<n-1; index++){//to save index going out of bound we used n-1
                 if(arr[index] < arr[index+1]){
                     int temp = arr[index+1];
                     arr[index+1] = arr[index];
